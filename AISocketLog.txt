@@ -1,0 +1,74 @@
+Microsoft Windows [Version 10.0.19042.906]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Manoj Nagendra\Desktop\Agent\Agent Socket Communication Program>javac AgentServer.java
+
+C:\Users\Manoj Nagendra\Desktop\Agent\Agent Socket Communication Program>java AgentServer
+Manoj's Agent server 1.9 starting up, listening at port 45565.
+
+AI:
+Manoj! Nice to meet you!
+AI:
+Manoj! Nice to meet you!
+I am doing good, thanks for asking! How are you?
+AI:
+What do dentists call their X-Rays?..umm...Tooth Pics :D
+AI:
+It reminds me of the sun
+AI:
+Thanks for chatting! Have a great day!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Microsoft Windows [Version 10.0.19042.906]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Manoj Nagendra\Desktop\Agent\Agent Socket Communication Program>javac AgentClient.java
+
+C:\Users\Manoj Nagendra\Desktop\Agent\Agent Socket Communication Program>java AgentClient
+Manoj's Agent Client, 1.9.
+
+Using server: localhost, Port: 45565
+Enter a string to send to the Agent, (quit) to end: hi
+Hi! I am your Agent.
+Client: hi
+
+Enter a string to send to the Agent, (quit) to end: hey how are you
+Hi! I am your Agent.
+Client: hey how are you
+
+Enter a string to send to the Agent, (quit) to end: tell me a joke
+Hi! I am your Agent.
+Client: tell me a joke
+
+Enter a string to send to the Agent, (quit) to end: I like yellow
+Hi! I am your Agent.
+Client: I like yellow
+
+Enter a string to send to the Agent, (quit) to end: bye
+Hi! I am your Agent.
+Client: bye
+
+Enter a string to send to the Agent, (quit) to end: quit
+Cancelled by user request.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Commands to try
+
+Client: Hey
+AI: Manoj! Nice to meet you!
+
+Client: hi how are you
+AI: Manoj! Nice to meet you!. I am good, thanks for asking! How're you?
+
+Client: tell me a joke
+AI: What do dentists call their X-Rays?..umm...Tooth Pics :D
+
+Client: I like the color blue
+AI: It reminds me of the blue sky
+
+Client: who are you
+AI: I am a smart chat agent
+
+Client: Great! bye
+AI: Thanks for chatting! Have a great day! 
